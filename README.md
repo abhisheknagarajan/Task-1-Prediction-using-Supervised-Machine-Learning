@@ -50,11 +50,11 @@ This means that the the target variable is able explain 95% of the variance due 
 
 
 Train/Test	
-      MAPE  RMSE  MAE
+       MAPE  RMSE  MAE
       
-Train	0.11	5.26	4.77
+Train	 0.11	 5.26	 4.77
 
-Test	0.16	5.86	5.63
+Test	 0.16	 5.86  5.63
 
 
 The predicted score if a student studies 9.25 hours in a day is: 93.43
