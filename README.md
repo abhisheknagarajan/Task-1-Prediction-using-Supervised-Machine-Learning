@@ -51,7 +51,9 @@ This means that the the target variable is able explain 95% of the variance due 
 
 Train/Test	
       MAPE  RMSE  MAE
+      
 Train	0.11	5.26	4.77
+
 Test	0.16	5.86	5.63
 
 
